@@ -7,7 +7,7 @@ function ColorSchemesExample() {
     <>
       <Navbar bg="dark" variant="dark">
         <Container>
-          <Navbar.Brand to="/">Manish</Navbar.Brand>
+          <Navbar.Brand to="/home">Manish</Navbar.Brand>
           <Nav className="me-auto">
             <NavLink to="/home" style={{ marginRight: "20px" }}>Home</NavLink>
             <NavLink to="/about" style={{ marginRight: "20px" }} >About</NavLink>
