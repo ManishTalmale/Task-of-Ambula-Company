@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Task-of-Ambula-Company/static/css/main.1edc9b6b.css",
+    "main.js": "/Task-of-Ambula-Company/static/js/main.15568a9d.js",
+    "static/media/third.png": "/Task-of-Ambula-Company/static/media/third.d4b40a4bbb64869fa4fb.png",
+    "static/media/prof1.png": "/Task-of-Ambula-Company/static/media/prof1.052606f1c5cb22a956b2.png",
+    "static/media/prof4.png": "/Task-of-Ambula-Company/static/media/prof4.8a7206d7bb7bb1121e13.png",
+    "static/media/prof5.png": "/Task-of-Ambula-Company/static/media/prof5.d86e33de84e5943d4fa9.png",
+    "static/media/prof8.png": "/Task-of-Ambula-Company/static/media/prof8.ccce6803a944e377052c.png",
+    "static/media/prof6.png": "/Task-of-Ambula-Company/static/media/prof6.e96d09c610cbe9f58811.png",
+    "static/media/prof3.png": "/Task-of-Ambula-Company/static/media/prof3.589c20b8ebc362825a14.png",
+    "static/media/prof2.png": "/Task-of-Ambula-Company/static/media/prof2.7ec4a6cf81758165cce3.png",
+    "static/media/prof7.png": "/Task-of-Ambula-Company/static/media/prof7.f2d18851066d8ffe05a9.png",
+    "static/media/first.png": "/Task-of-Ambula-Company/static/media/first.c786c2a2c986a90809be.png",
+    "static/media/emer.png": "/Task-of-Ambula-Company/static/media/emer.99c7b31d0d3032d6adcd.png",
+    "static/media/three.png": "/Task-of-Ambula-Company/static/media/three.ddbabcc4142825cf13fe.png",
+    "static/media/one.avif": "/Task-of-Ambula-Company/static/media/one.71ff95e8ea00b4d3a59e.avif",
+    "static/media/two.avif": "/Task-of-Ambula-Company/static/media/two.f663b4ff2a2befc611c0.avif",
+    "index.html": "/Task-of-Ambula-Company/index.html",
+    "main.1edc9b6b.css.map": "/Task-of-Ambula-Company/static/css/main.1edc9b6b.css.map",
+    "main.15568a9d.js.map": "/Task-of-Ambula-Company/static/js/main.15568a9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1edc9b6b.css",
+    "static/js/main.15568a9d.js"
+  ]
+}
