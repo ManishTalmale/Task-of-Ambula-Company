@@ -1,0 +1,30 @@
+.btn-boxxx a{
+    display: inline-block;
+    padding: 10px 45px;
+    background-color: #ab1fa9;
+    color: #ffffff;
+    border-radius: 5px;
+    transition: all 0.3s;
+    border: 1px solid #1f36ab;
+    text-decoration: none;
+}
+a, a:hover {
+    text-decoration: none;
+    color: #1fab89;
+    background-color: #62d2a200;
+}
+.gmap_iframe {
+    width:100%!important;
+    height:350px!important;
+    border-radius: 5px;
+    }
+    .contact-card{
+        padding: 10px 10px 10px 10px;
+        box-shadow:  10px 10px 10px grey ;
+    }
+
+    @media (min-width:0px) and (max-width:767px){
+    .send{
+        margin-bottom: 1em;
+    }    
+    }
